@@ -1,3 +1,3 @@
-# DEmo 2
+# Demo 2
 
 A text.
